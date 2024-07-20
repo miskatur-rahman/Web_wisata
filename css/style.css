@@ -1,0 +1,9 @@
+#hero {
+    height: 400px;
+    background-image: url("../img/lautt.jpg");
+    background-size: cover;
+    background-position: bottom center;
+    color:#fff;
+    margin-bottom: 30px;
+
+}
